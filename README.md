@@ -6,7 +6,9 @@ What is Diabetes?
 Diabetes is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy. With diabetes, your body either doesn't make enough insulin or can't effectively use the insulin it does make.
 
 Where is this data from?
-This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to dianostically predict whether or not a patient has diabetes, based on certain diagnostic measaurements included in the dataset. Several contraints were places on the selection of these instance from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to dianostically predict whether or not a patient has diabetes, based on
+certain diagnostic measaurements included in the dataset. Several contraints were places on the selection of these instance from a larger database. In particular, all patients here are females at least 21 years
+old of Pima Indian heritage.
 
 
 
